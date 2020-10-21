@@ -1,0 +1,5 @@
+Verordnung zur Weiterübertragung von datenverarbeitungsbezogenen Verordnungsermächtigungen
+nach dem Hamburgischen Justizvollzugsdatenschutzgesetz, Hamburgischen Strafvollzugsgesetz, Hamburgischen Jugendstrafvollzugsgesetz
+und Hamburgischen Untersuchungshaftvollzugsgesetz
+(Weiterübertragungsverordnung-Justizvollzugsdatenschutz)
+Vom 15. Oktober 2019
