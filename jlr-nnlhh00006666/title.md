@@ -1,0 +1,4 @@
+Verordnung zur Weiterübertragung der Verordnungsermächtigung
+nach dem Gesetz zur Umsetzung des Hamburgischen Berufsqualifikationsfeststellungsgesetzes für Lehramtsbefähigungen
+(Weiterübertragungsverordnung-Berufsqualifikationsfeststellung-Lehramt)
+Vom 4. Juni 2013
