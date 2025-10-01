@@ -1,0 +1,4 @@
+Verordnung zur Weiterübertragung von Verordnungsermächtigungen
+über die Ausgestaltung von Ausgleichsmaßnahmen nach dem Hamburgischen Berufsqualifikationsfeststellungsgesetz
+(Weiterübertragungsverordnung-Berufsqualifikationsfeststellung)
+Vom 4. September 2012
