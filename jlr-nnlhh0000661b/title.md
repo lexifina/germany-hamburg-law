@@ -1,0 +1,5 @@
+Verordnung zur Umsetzung der Richtlinie 2012/18/EU des Europäischen Parlaments und des Rates vom 4. Juli 2012
+zur Beherrschung der Gefahren schwerer Unfälle mit gefährlichen Stoffen,
+zur Änderung und anschließenden Aufhebung der Richtlinie 96/82/EG des Rates in Bezug auf die Öffentlichkeitsbeteiligung bei Bauvorhaben
+(Öffentlichkeitsbeteiligungsverordnung Seveso III - ÖffbetVO)
+Vom 13. Juni 2017
