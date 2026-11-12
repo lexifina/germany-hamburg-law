@@ -1,0 +1,15 @@
+{
+  "corpus": "de/hamburg/acts",
+  "path": "germany/hamburg/acts",
+  "name": "Hamburg state legislation",
+  "language": "de",
+  "history": "metadata-only",
+  "scope": "selected-acts",
+  "acts": 0,
+  "history_from": null,
+  "record_to": null,
+  "checked_on": "2026-11-12",
+  "future_branch": "futuro",
+  "publisher": "Freie und Hansestadt Hamburg, Behörde für Justiz und Verbraucherschutz",
+  "record_note": "Source inventory only; no law text or current coverage is asserted."
+}

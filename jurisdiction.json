@@ -1,0 +1,7 @@
+{
+  "name": "Hamburg",
+  "code": "DE-HH",
+  "level": "state",
+  "parent": "Germany",
+  "build": "metadata-only"
+}

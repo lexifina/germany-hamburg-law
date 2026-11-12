@@ -1,0 +1,13 @@
+{
+  "source": "https://www.landesrecht-hamburg.de/sitemap1.xml",
+  "checked_on": "2026-11-12",
+  "url_entries": 35211,
+  "portal_root_entries": 1,
+  "document_entries": 35210,
+  "document_identifier_prefixes": {
+    "jlr-": 22701,
+    "NJRE": 12399,
+    "VVHA": 110
+  },
+  "classification_note": "Document URLs have not been deduplicated into acts or checked for current force."
+}
