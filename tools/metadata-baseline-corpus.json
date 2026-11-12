@@ -1,0 +1,37 @@
+{
+ "country": {
+  "code": "DE-HH",
+  "name": "Hamburg",
+  "slug": "germany-hamburg",
+  "lang": "de",
+  "tz": "Europe/Berlin",
+  "future_branch": "futuro",
+  "publisher": {
+   "name": "Freie und Hansestadt Hamburg, Behörde für Justiz und Verbraucherschutz",
+   "email": "germany-hamburg-law@lexifina.com"
+  },
+  "default_in_force_rule": {
+   "text": "Use the official Gesamtausgabe validity interval, or the latest Gültig ab date in its current provision table. No presumed commencement rule is applied.",
+   "source": "https://www.landesrecht-hamburg.de/"
+  },
+  "licence_note": "Official legislative texts: § 5 Absatz 1 UrhG. Gazette dataset attribution, where used: Freie und Hansestadt Hamburg, Justizbehörde; Datenlizenz Deutschland – Namensnennung – Version 2.0."
+ },
+ "sources": [
+  {
+   "name": "Landesrecht Hamburg",
+   "url": "https://www.landesrecht-hamburg.de/",
+   "retrieved": "2026-11-12",
+   "licence": "Official legislative texts under § 5 Absatz 1 UrhG",
+   "notes": "Hamburg's official consolidated state legislation service."
+  }
+ ],
+ "ai_use": [
+  "GPT-6 wrote extraction and verification code and documentation. No model wrote, corrected, translated or OCRed legislative text. No model credit proposals."
+ ],
+ "acts": [],
+ "laws": {},
+ "applies": [],
+ "decisions": [
+  "Empty legal input for the published metadata-only baseline; the repository descriptor remains historical metadata."
+ ]
+}

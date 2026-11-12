@@ -1,0 +1,27 @@
+# Verordnung über die Satzung der Stadtreinigung Hamburg Vom 29. März 1994
+
+StrRSaV HA · 1 versions, from 2018-12-20 (latest in force: 2018-12-20) · <https://www.landesrecht-hamburg.de/bsha/document/jlr-NNLHH00006990>
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| norm-00000000001 | [norm-00000000001.md](norm-00000000001.md) | 0 |  |
+| norm-00000000002 | [norm-00000000002.md](norm-00000000002.md) | 0 |  |
+| norm-00000000018 | [norm-00000000018.md](norm-00000000018.md) | 0 |  |
+| norm-00000000019 | [norm-00000000019.md](norm-00000000019.md) | 0 |  |
+| norm-00000000020 | [norm-00000000020.md](norm-00000000020.md) | 0 |  |
+| norm-00000000021 | [norm-00000000021.md](norm-00000000021.md) | 0 |  |
+| norm-00000000022 | [norm-00000000022.md](norm-00000000022.md) | 0 |  |
+| norm-00000000023 | [norm-00000000023.md](norm-00000000023.md) | 0 |  |
+| norm-00000000024 | [norm-00000000024.md](norm-00000000024.md) | 0 |  |
+| norm-00000000025 | [norm-00000000025.md](norm-00000000025.md) | 0 |  |
+| norm-00000000026 | [norm-00000000026.md](norm-00000000026.md) | 0 |  |
+| norm-00000000027 | [norm-00000000027.md](norm-00000000027.md) | 0 |  |
+| norm-00000000028 | [norm-00000000028.md](norm-00000000028.md) | 0 |  |
+| norm-00000000029 | [norm-00000000029.md](norm-00000000029.md) | 0 |  |
+| norm-00000000030 | [norm-00000000030.md](norm-00000000030.md) | 0 |  |
+| norm-00000000031 | [norm-00000000031.md](norm-00000000031.md) | 0 |  |
+| norm-00000000032 | [norm-00000000032.md](norm-00000000032.md) | 0 |  |
+| norm-00000000033 | [norm-00000000033.md](norm-00000000033.md) | 0 |  |
+| norm-00000000034 | [norm-00000000034.md](norm-00000000034.md) | 0 |  |
+| norm-00000000036 | [norm-00000000036.md](norm-00000000036.md) | 0 |  |
+| Titel | [title.md](title.md) | 0 |  |

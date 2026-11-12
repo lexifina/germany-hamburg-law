@@ -1,0 +1,36 @@
+# Verordnung über die Laufbahnen der hamburgischen Beamtinnen und Beamten (HmbLVO) Vom 22. Dezember 2009
+
+HmbLVO · 1 versions, from 2026-01-01 (latest in force: 2026-01-01) · <https://www.landesrecht-hamburg.de/bsha/document/jlr-NNLHH00006572>
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| norm-00000000001 | [norm-00000000001.md](norm-00000000001.md) | 0 |  |
+| norm-00000000003 | [norm-00000000003.md](norm-00000000003.md) | 0 |  |
+| norm-00000000004 | [norm-00000000004.md](norm-00000000004.md) | 0 |  |
+| norm-00000000005 | [norm-00000000005.md](norm-00000000005.md) | 0 |  |
+| norm-00000000008 | [norm-00000000008.md](norm-00000000008.md) | 0 |  |
+| norm-00000000009 | [norm-00000000009.md](norm-00000000009.md) | 0 |  |
+| norm-00000000010 | [norm-00000000010.md](norm-00000000010.md) | 0 |  |
+| norm-00000000013 | [norm-00000000013.md](norm-00000000013.md) | 0 |  |
+| norm-00000000015 | [norm-00000000015.md](norm-00000000015.md) | 0 |  |
+| norm-00000000017 | [norm-00000000017.md](norm-00000000017.md) | 0 |  |
+| norm-00000000018 | [norm-00000000018.md](norm-00000000018.md) | 0 |  |
+| norm-00000000020 | [norm-00000000020.md](norm-00000000020.md) | 0 |  |
+| norm-00000000021 | [norm-00000000021.md](norm-00000000021.md) | 0 |  |
+| norm-00000000026 | [norm-00000000026.md](norm-00000000026.md) | 0 |  |
+| norm-00000000027 | [norm-00000000027.md](norm-00000000027.md) | 0 |  |
+| norm-00000000028 | [norm-00000000028.md](norm-00000000028.md) | 0 |  |
+| norm-00000000032 | [norm-00000000032.md](norm-00000000032.md) | 0 |  |
+| norm-00000000033 | [norm-00000000033.md](norm-00000000033.md) | 0 |  |
+| norm-00000000034 | [norm-00000000034.md](norm-00000000034.md) | 0 |  |
+| norm-00000000035 | [norm-00000000035.md](norm-00000000035.md) | 0 |  |
+| norm-00000000036 | [norm-00000000036.md](norm-00000000036.md) | 0 |  |
+| norm-00000000037 | [norm-00000000037.md](norm-00000000037.md) | 0 |  |
+| norm-00000000041 | [norm-00000000041.md](norm-00000000041.md) | 0 |  |
+| norm-00000000042 | [norm-00000000042.md](norm-00000000042.md) | 0 |  |
+| norm-00000000043 | [norm-00000000043.md](norm-00000000043.md) | 0 |  |
+| norm-00000000044 | [norm-00000000044.md](norm-00000000044.md) | 0 |  |
+| norm-00000000045 | [norm-00000000045.md](norm-00000000045.md) | 0 |  |
+| norm-00000000046 | [norm-00000000046.md](norm-00000000046.md) | 0 |  |
+| norm-00000000047 | [norm-00000000047.md](norm-00000000047.md) | 0 |  |
+| Titel | [title.md](title.md) | 0 |  |

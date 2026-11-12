@@ -1,16 +1,13 @@
 # Hamburg state legislation
 
-This repository records legislation of the Free and Hanseatic City of Hamburg. Its current edition contains source metadata only: **0 acts and no law text**. It makes no claim to cover the legislation in force.
+This partial edition contains **1,173 current Hamburg acts**, one consolidated version each, from the official [Landesrecht Hamburg](https://www.landesrecht-hamburg.de/) source on **12 November 2026**. It covers **85.5%** of the 1,372 eligible current acts in the 1,825-record title listing. **199 image- or annex-bearing acts are absent**, with identifiers, official links and known gaps in [data/current-coverage.json](data/current-coverage.json).
 
-The Hamburg [Landesrecht portal](https://www.landesrecht-hamburg.de/) publishes consolidated state law. Its [sitemap](https://www.landesrecht-hamburg.de/sitemap1.xml) listed 22,701 `jlr-` document URLs on 12 November 2026. Those URLs have not been classified or deduplicated into acts. The [Hamburg Transparenzportal](https://suche.transparenz.hamburg.de/) records editions of the *Hamburgisches Gesetz- und Verordnungsblatt (Teil I)*, which can provide evidence of enactment, publication and commencement dates. One inspected gazette dataset states that the printed gazette alone is legally authoritative.
+The legal files preserve German wording, provision headings and textual annexes. Their 773 text tables retain rows, cells and merged-cell structure. The record includes 288 labelled table-layout corrections. No normative images or OCR text are included. Absence from this collection does not signify repeal. Administrative rules, decisions, earlier versions and intervening amendment history are outside scope.
 
-The source inventory is in `data/source-inventory.json`. The consolidated portal's pages show a `tdm-reservation=1` signal. This repository does not use the source text for AI training.
+Version dates come from the source's Gesamtausgabe validity start, or latest provision-level **Gültig ab** date where the source identifies its current text without an explicit start date. **Ausfertigungsdatum** records enactment separately. The observation date identifies this edition; it does not replace a source date.
 
-## Coverage
+[data/acts.json](data/acts.json) identifies the acts and official sources. [data/provisions.tsv](data/provisions.tsv) records legal files, dates and original-response hashes. The root [corpus.json](corpus.json) describes this repository and counts its acts. The standalone source record is [tools/source-corpus.json](tools/source-corpus.json); [REPRODUCE.md](REPRODUCE.md) identifies that input and its format.
 
-- Jurisdiction: Hamburg, Germany (`DE-HH`)
-- Record type: metadata only
-- Acts: 0
-- Checked against the publisher sitemap: 12 November 2026
+Official statutes and regulations are official works under § 5(1) UrhG. [LICENSE](LICENSE) and [NOTICE.md](NOTICE.md) record source rights and Hamburg authority attribution. The earlier gazette inventory is metadata only; no gazette text or PDF is included.
 
-The next edition needs verified current text, source dates, and an image audit for each act before it can assert legislative coverage.
+The official Landesrecht Hamburg host identifies a text and data mining reservation with `tdm-reservation: 1`; its portal metadata also includes `nofollow`. These source signals are disclosed here alongside the source rights. This edition publishes official legislation and is not used to train AI models.

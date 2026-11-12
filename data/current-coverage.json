@@ -1,0 +1,1210 @@
+{
+ "official_title_records": 1825,
+ "visited_title_records": 1825,
+ "eligible_current_act_records": 1372,
+ "acts_built": 1173,
+ "held_act_records": 199,
+ "coverage_percent": 85.5,
+ "checked_on": "2026-11-12",
+ "history": "current-only",
+ "scope": "selected-acts",
+ "held_reason_counts": {
+  "Source image or separately supplied normative annex": 199
+ },
+ "held": [
+  {
+   "document_id": "jlr-NNLHH0000B746",
+   "document_type": "Verordnung",
+   "reason": "Source image or separately supplied normative annex",
+   "source": "https://www.landesrecht-hamburg.de/perma?d=jlr-NNLHH0000B746&docPart=X"
+  },
+  {
+   "document_id": "jlr-NNLHH0000B6C0",
+   "document_type": "Verordnung",
+   "reason": "Source image or separately supplied normative annex",
+   "source": "https://www.landesrecht-hamburg.de/perma?d=jlr-NNLHH0000B6C0&docPart=X"
+  },
+  {
+   "document_id": "jlr-NNLHH0000B67A",
+   "document_type": "Verordnung",
+   "reason": "Source image or separately supplied normative annex",
+   "source": "https://www.landesrecht-hamburg.de/perma?d=jlr-NNLHH0000B67A&docPart=X"
+  },
+  {
+   "document_id": "jlr-NNLHH0000B61B",
+   "document_type": "Verordnung",
+   "reason": "Source image or separately supplied normative annex",
+   "source": "https://www.landesrecht-hamburg.de/perma?d=jlr-NNLHH0000B61B&docPart=X"
+  },
+  {
+   "document_id": "jlr-NNLHH00006E3F",
+   "document_type": "Gesetz",
+   "reason": "Source image or separately supplied normative annex",
+   "source": "https://www.landesrecht-hamburg.de/perma?d=jlr-NNLHH00006E3F&docPart=X"
+  },
+  {
+   "document_id": "jlr-NNLHH00006E3E",
+   "document_type": "Gesetz",
+   "reason": "Source image or separately supplied normative annex",
+   "source": "https://www.landesrecht-hamburg.de/perma?d=jlr-NNLHH00006E3E&docPart=X"
+  },
+  {
+   "document_id": "jlr-NNLHH00006DE6",
+   "document_type": "Gesetz",
+   "reason": "Source image or separately supplied normative annex",
+   "source": "https://www.landesrecht-hamburg.de/perma?d=jlr-NNLHH00006DE6&docPart=X"
+  },
+  {
+   "document_id": "jlr-NNLHH00006DE1",
+   "document_type": "Verordnung",
+   "reason": "Source image or separately supplied normative annex",
+   "source": "https://www.landesrecht-hamburg.de/perma?d=jlr-NNLHH00006DE1&docPart=X"
+  },
+  {
+   "document_id": "jlr-NNLHH00006DD2",
+   "document_type": "Gesetz",
+   "reason": "Source image or separately supplied normative annex",
+   "source": "https://www.landesrecht-hamburg.de/perma?d=jlr-NNLHH00006DD2&docPart=X"
+  },
+  {
+   "document_id": "jlr-NNLHH00006DC0",
+   "document_type": "Gesetz",
+   "reason": "Source image or separately supplied normative annex",
+   "source": "https://www.landesrecht-hamburg.de/perma?d=jlr-NNLHH00006DC0&docPart=X"
+  },
+  {
+   "document_id": "jlr-NNLHH00006DBD",
+   "document_type": "Verordnung",
+   "reason": "Source image or separately supplied normative annex",
+   "source": "https://www.landesrecht-hamburg.de/perma?d=jlr-NNLHH00006DBD&docPart=X"
+  },
+  {
+   "document_id": "jlr-NNLHH00006DBA",
+   "document_type": "Verordnung",
+   "reason": "Source image or separately supplied normative annex",
+   "source": "https://www.landesrecht-hamburg.de/perma?d=jlr-NNLHH00006DBA&docPart=X"
+  },
+  {
+   "document_id": "jlr-NNLHH00006DB1",
+   "document_type": "Verordnung",
+   "reason": "Source image or separately supplied normative annex",
+   "source": "https://www.landesrecht-hamburg.de/perma?d=jlr-NNLHH00006DB1&docPart=X"
+  },
+  {
+   "document_id": "jlr-NNLHH00006D90",
+   "document_type": "Gesetz",
+   "reason": "Source image or separately supplied normative annex",
+   "source": "https://www.landesrecht-hamburg.de/perma?d=jlr-NNLHH00006D90&docPart=X"
+  },
+  {
+   "document_id": "jlr-NNLHH00006D85",
+   "document_type": "Verordnung",
+   "reason": "Source image or separately supplied normative annex",
+   "source": "https://www.landesrecht-hamburg.de/perma?d=jlr-NNLHH00006D85&docPart=X"
+  },
+  {
+   "document_id": "jlr-NNLHH00006D82",
+   "document_type": "Verordnung",
+   "reason": "Source image or separately supplied normative annex",
+   "source": "https://www.landesrecht-hamburg.de/perma?d=jlr-NNLHH00006D82&docPart=X"
+  },
+  {
+   "document_id": "jlr-NNLHH00006D7E",
+   "document_type": "Verordnung",
+   "reason": "Source image or separately supplied normative annex",
+   "source": "https://www.landesrecht-hamburg.de/perma?d=jlr-NNLHH00006D7E&docPart=X"
+  },
+  {
+   "document_id": "jlr-NNLHH00006D79",
+   "document_type": "Gesetz",
+   "reason": "Source image or separately supplied normative annex",
+   "source": "https://www.landesrecht-hamburg.de/perma?d=jlr-NNLHH00006D79&docPart=X"
+  },
+  {
+   "document_id": "jlr-NNLHH00006D51",
+   "document_type": "Gesetz",
+   "reason": "Source image or separately supplied normative annex",
+   "source": "https://www.landesrecht-hamburg.de/perma?d=jlr-NNLHH00006D51&docPart=X"
+  },
+  {
+   "document_id": "jlr-NNLHH00006D25",
+   "document_type": "Verordnung",
+   "reason": "Source image or separately supplied normative annex",
+   "source": "https://www.landesrecht-hamburg.de/perma?d=jlr-NNLHH00006D25&docPart=X"
+  },
+  {
+   "document_id": "jlr-NNLHH00006D21",
+   "document_type": "Verordnung",
+   "reason": "Source image or separately supplied normative annex",
+   "source": "https://www.landesrecht-hamburg.de/perma?d=jlr-NNLHH00006D21&docPart=X"
+  },
+  {
+   "document_id": "jlr-NNLHH00006D1E",
+   "document_type": "Verordnung",
+   "reason": "Source image or separately supplied normative annex",
+   "source": "https://www.landesrecht-hamburg.de/perma?d=jlr-NNLHH00006D1E&docPart=X"
+  },
+  {
+   "document_id": "jlr-NNLHH00006D1D",
+   "document_type": "Verordnung",
+   "reason": "Source image or separately supplied normative annex",
+   "source": "https://www.landesrecht-hamburg.de/perma?d=jlr-NNLHH00006D1D&docPart=X"
+  },
+  {
+   "document_id": "jlr-NNLHH00006D19",
+   "document_type": "Verordnung",
+   "reason": "Source image or separately supplied normative annex",
+   "source": "https://www.landesrecht-hamburg.de/perma?d=jlr-NNLHH00006D19&docPart=X"
+  },
+  {
+   "document_id": "jlr-NNLHH00006D17",
+   "document_type": "Verordnung",
+   "reason": "Source image or separately supplied normative annex",
+   "source": "https://www.landesrecht-hamburg.de/perma?d=jlr-NNLHH00006D17&docPart=X"
+  },
+  {
+   "document_id": "jlr-NNLHH00006D14",
+   "document_type": "Verordnung",
+   "reason": "Source image or separately supplied normative annex",
+   "source": "https://www.landesrecht-hamburg.de/perma?d=jlr-NNLHH00006D14&docPart=X"
+  },
+  {
+   "document_id": "jlr-NNLHH00006D13",
+   "document_type": "Verordnung",
+   "reason": "Source image or separately supplied normative annex",
+   "source": "https://www.landesrecht-hamburg.de/perma?d=jlr-NNLHH00006D13&docPart=X"
+  },
+  {
+   "document_id": "jlr-NNLHH00006D12",
+   "document_type": "Verordnung",
+   "reason": "Source image or separately supplied normative annex",
+   "source": "https://www.landesrecht-hamburg.de/perma?d=jlr-NNLHH00006D12&docPart=X"
+  },
+  {
+   "document_id": "jlr-NNLHH00006D11",
+   "document_type": "Verordnung",
+   "reason": "Source image or separately supplied normative annex",
+   "source": "https://www.landesrecht-hamburg.de/perma?d=jlr-NNLHH00006D11&docPart=X"
+  },
+  {
+   "document_id": "jlr-NNLHH00006D10",
+   "document_type": "Verordnung",
+   "reason": "Source image or separately supplied normative annex",
+   "source": "https://www.landesrecht-hamburg.de/perma?d=jlr-NNLHH00006D10&docPart=X"
+  },
+  {
+   "document_id": "jlr-NNLHH00006D0F",
+   "document_type": "Verordnung",
+   "reason": "Source image or separately supplied normative annex",
+   "source": "https://www.landesrecht-hamburg.de/perma?d=jlr-NNLHH00006D0F&docPart=X"
+  },
+  {
+   "document_id": "jlr-NNLHH00006D0E",
+   "document_type": "Verordnung",
+   "reason": "Source image or separately supplied normative annex",
+   "source": "https://www.landesrecht-hamburg.de/perma?d=jlr-NNLHH00006D0E&docPart=X"
+  },
+  {
+   "document_id": "jlr-NNLHH00006D0D",
+   "document_type": "Verordnung",
+   "reason": "Source image or separately supplied normative annex",
+   "source": "https://www.landesrecht-hamburg.de/perma?d=jlr-NNLHH00006D0D&docPart=X"
+  },
+  {
+   "document_id": "jlr-NNLHH00006D0C",
+   "document_type": "Verordnung",
+   "reason": "Source image or separately supplied normative annex",
+   "source": "https://www.landesrecht-hamburg.de/perma?d=jlr-NNLHH00006D0C&docPart=X"
+  },
+  {
+   "document_id": "jlr-NNLHH00006D0B",
+   "document_type": "Verordnung",
+   "reason": "Source image or separately supplied normative annex",
+   "source": "https://www.landesrecht-hamburg.de/perma?d=jlr-NNLHH00006D0B&docPart=X"
+  },
+  {
+   "document_id": "jlr-NNLHH00006D0A",
+   "document_type": "Verordnung",
+   "reason": "Source image or separately supplied normative annex",
+   "source": "https://www.landesrecht-hamburg.de/perma?d=jlr-NNLHH00006D0A&docPart=X"
+  },
+  {
+   "document_id": "jlr-NNLHH00006D09",
+   "document_type": "Verordnung",
+   "reason": "Source image or separately supplied normative annex",
+   "source": "https://www.landesrecht-hamburg.de/perma?d=jlr-NNLHH00006D09&docPart=X"
+  },
+  {
+   "document_id": "jlr-NNLHH00006D08",
+   "document_type": "Verordnung",
+   "reason": "Source image or separately supplied normative annex",
+   "source": "https://www.landesrecht-hamburg.de/perma?d=jlr-NNLHH00006D08&docPart=X"
+  },
+  {
+   "document_id": "jlr-NNLHH00006CE9",
+   "document_type": "Verordnung",
+   "reason": "Source image or separately supplied normative annex",
+   "source": "https://www.landesrecht-hamburg.de/perma?d=jlr-NNLHH00006CE9&docPart=X"
+  },
+  {
+   "document_id": "jlr-NNLHH00006CE8",
+   "document_type": "Verordnung",
+   "reason": "Source image or separately supplied normative annex",
+   "source": "https://www.landesrecht-hamburg.de/perma?d=jlr-NNLHH00006CE8&docPart=X"
+  },
+  {
+   "document_id": "jlr-NNLHH00006CE7",
+   "document_type": "Verordnung",
+   "reason": "Source image or separately supplied normative annex",
+   "source": "https://www.landesrecht-hamburg.de/perma?d=jlr-NNLHH00006CE7&docPart=X"
+  },
+  {
+   "document_id": "jlr-NNLHH00006CE6",
+   "document_type": "Verordnung",
+   "reason": "Source image or separately supplied normative annex",
+   "source": "https://www.landesrecht-hamburg.de/perma?d=jlr-NNLHH00006CE6&docPart=X"
+  },
+  {
+   "document_id": "jlr-NNLHH00006CE5",
+   "document_type": "Verordnung",
+   "reason": "Source image or separately supplied normative annex",
+   "source": "https://www.landesrecht-hamburg.de/perma?d=jlr-NNLHH00006CE5&docPart=X"
+  },
+  {
+   "document_id": "jlr-NNLHH00006CE4",
+   "document_type": "Verordnung",
+   "reason": "Source image or separately supplied normative annex",
+   "source": "https://www.landesrecht-hamburg.de/perma?d=jlr-NNLHH00006CE4&docPart=X"
+  },
+  {
+   "document_id": "jlr-NNLHH00006CE3",
+   "document_type": "Verordnung",
+   "reason": "Source image or separately supplied normative annex",
+   "source": "https://www.landesrecht-hamburg.de/perma?d=jlr-NNLHH00006CE3&docPart=X"
+  },
+  {
+   "document_id": "jlr-NNLHH00006CE2",
+   "document_type": "Verordnung",
+   "reason": "Source image or separately supplied normative annex",
+   "source": "https://www.landesrecht-hamburg.de/perma?d=jlr-NNLHH00006CE2&docPart=X"
+  },
+  {
+   "document_id": "jlr-NNLHH00006CC1",
+   "document_type": "Verordnung",
+   "reason": "Source image or separately supplied normative annex",
+   "source": "https://www.landesrecht-hamburg.de/perma?d=jlr-NNLHH00006CC1&docPart=X"
+  },
+  {
+   "document_id": "jlr-NNLHH00006CC0",
+   "document_type": "Verordnung",
+   "reason": "Source image or separately supplied normative annex",
+   "source": "https://www.landesrecht-hamburg.de/perma?d=jlr-NNLHH00006CC0&docPart=X"
+  },
+  {
+   "document_id": "jlr-NNLHH00006C05",
+   "document_type": "Verordnung",
+   "reason": "Source image or separately supplied normative annex",
+   "source": "https://www.landesrecht-hamburg.de/perma?d=jlr-NNLHH00006C05&docPart=X"
+  },
+  {
+   "document_id": "jlr-NNLHH00006BF5",
+   "document_type": "Verordnung",
+   "reason": "Source image or separately supplied normative annex",
+   "source": "https://www.landesrecht-hamburg.de/perma?d=jlr-NNLHH00006BF5&docPart=X"
+  },
+  {
+   "document_id": "jlr-NNLHH00006BF3",
+   "document_type": "Verordnung",
+   "reason": "Source image or separately supplied normative annex",
+   "source": "https://www.landesrecht-hamburg.de/perma?d=jlr-NNLHH00006BF3&docPart=X"
+  },
+  {
+   "document_id": "jlr-NNLHH00006BEC",
+   "document_type": "Verordnung",
+   "reason": "Source image or separately supplied normative annex",
+   "source": "https://www.landesrecht-hamburg.de/perma?d=jlr-NNLHH00006BEC&docPart=X"
+  },
+  {
+   "document_id": "jlr-NNLHH00006BEA",
+   "document_type": "Verordnung",
+   "reason": "Source image or separately supplied normative annex",
+   "source": "https://www.landesrecht-hamburg.de/perma?d=jlr-NNLHH00006BEA&docPart=X"
+  },
+  {
+   "document_id": "jlr-NNLHH00006BCC",
+   "document_type": "Verordnung",
+   "reason": "Source image or separately supplied normative annex",
+   "source": "https://www.landesrecht-hamburg.de/perma?d=jlr-NNLHH00006BCC&docPart=X"
+  },
+  {
+   "document_id": "jlr-NNLHH00006BB8",
+   "document_type": "Verordnung",
+   "reason": "Source image or separately supplied normative annex",
+   "source": "https://www.landesrecht-hamburg.de/perma?d=jlr-NNLHH00006BB8&docPart=X"
+  },
+  {
+   "document_id": "jlr-NNLHH00006B73",
+   "document_type": "Verordnung",
+   "reason": "Source image or separately supplied normative annex",
+   "source": "https://www.landesrecht-hamburg.de/perma?d=jlr-NNLHH00006B73&docPart=X"
+  },
+  {
+   "document_id": "jlr-NNLHH00006B6C",
+   "document_type": "Verordnung",
+   "reason": "Source image or separately supplied normative annex",
+   "source": "https://www.landesrecht-hamburg.de/perma?d=jlr-NNLHH00006B6C&docPart=X"
+  },
+  {
+   "document_id": "jlr-NNLHH00006B0F",
+   "document_type": "Verordnung",
+   "reason": "Source image or separately supplied normative annex",
+   "source": "https://www.landesrecht-hamburg.de/perma?d=jlr-NNLHH00006B0F&docPart=X"
+  },
+  {
+   "document_id": "jlr-NNLHH00006A45",
+   "document_type": "Verordnung",
+   "reason": "Source image or separately supplied normative annex",
+   "source": "https://www.landesrecht-hamburg.de/perma?d=jlr-NNLHH00006A45&docPart=X"
+  },
+  {
+   "document_id": "jlr-NNLHH00006A44",
+   "document_type": "Verordnung",
+   "reason": "Source image or separately supplied normative annex",
+   "source": "https://www.landesrecht-hamburg.de/perma?d=jlr-NNLHH00006A44&docPart=X"
+  },
+  {
+   "document_id": "jlr-NNLHH00006A43",
+   "document_type": "Verordnung",
+   "reason": "Source image or separately supplied normative annex",
+   "source": "https://www.landesrecht-hamburg.de/perma?d=jlr-NNLHH00006A43&docPart=X"
+  },
+  {
+   "document_id": "jlr-NNLHH00006A42",
+   "document_type": "Verordnung",
+   "reason": "Source image or separately supplied normative annex",
+   "source": "https://www.landesrecht-hamburg.de/perma?d=jlr-NNLHH00006A42&docPart=X"
+  },
+  {
+   "document_id": "jlr-NNLHH00006A41",
+   "document_type": "Verordnung",
+   "reason": "Source image or separately supplied normative annex",
+   "source": "https://www.landesrecht-hamburg.de/perma?d=jlr-NNLHH00006A41&docPart=X"
+  },
+  {
+   "document_id": "jlr-NNLHH00006A40",
+   "document_type": "Verordnung",
+   "reason": "Source image or separately supplied normative annex",
+   "source": "https://www.landesrecht-hamburg.de/perma?d=jlr-NNLHH00006A40&docPart=X"
+  },
+  {
+   "document_id": "jlr-NNLHH00006A3F",
+   "document_type": "Verordnung",
+   "reason": "Source image or separately supplied normative annex",
+   "source": "https://www.landesrecht-hamburg.de/perma?d=jlr-NNLHH00006A3F&docPart=X"
+  },
+  {
+   "document_id": "jlr-NNLHH00006A3C",
+   "document_type": "Verordnung",
+   "reason": "Source image or separately supplied normative annex",
+   "source": "https://www.landesrecht-hamburg.de/perma?d=jlr-NNLHH00006A3C&docPart=X"
+  },
+  {
+   "document_id": "jlr-NNLHH00006A38",
+   "document_type": "Verordnung",
+   "reason": "Source image or separately supplied normative annex",
+   "source": "https://www.landesrecht-hamburg.de/perma?d=jlr-NNLHH00006A38&docPart=X"
+  },
+  {
+   "document_id": "jlr-NNLHH00006A37",
+   "document_type": "Verordnung",
+   "reason": "Source image or separately supplied normative annex",
+   "source": "https://www.landesrecht-hamburg.de/perma?d=jlr-NNLHH00006A37&docPart=X"
+  },
+  {
+   "document_id": "jlr-NNLHH00006A34",
+   "document_type": "Verordnung",
+   "reason": "Source image or separately supplied normative annex",
+   "source": "https://www.landesrecht-hamburg.de/perma?d=jlr-NNLHH00006A34&docPart=X"
+  },
+  {
+   "document_id": "jlr-NNLHH00006A2A",
+   "document_type": "Verordnung",
+   "reason": "Source image or separately supplied normative annex",
+   "source": "https://www.landesrecht-hamburg.de/perma?d=jlr-NNLHH00006A2A&docPart=X"
+  },
+  {
+   "document_id": "jlr-NNLHH00006A12",
+   "document_type": "Verordnung",
+   "reason": "Source image or separately supplied normative annex",
+   "source": "https://www.landesrecht-hamburg.de/perma?d=jlr-NNLHH00006A12&docPart=X"
+  },
+  {
+   "document_id": "jlr-NNLHH00006A11",
+   "document_type": "Verordnung",
+   "reason": "Source image or separately supplied normative annex",
+   "source": "https://www.landesrecht-hamburg.de/perma?d=jlr-NNLHH00006A11&docPart=X"
+  },
+  {
+   "document_id": "jlr-NNLHH00006A01",
+   "document_type": "Verordnung",
+   "reason": "Source image or separately supplied normative annex",
+   "source": "https://www.landesrecht-hamburg.de/perma?d=jlr-NNLHH00006A01&docPart=X"
+  },
+  {
+   "document_id": "jlr-NNLHH000069FF",
+   "document_type": "Verordnung",
+   "reason": "Source image or separately supplied normative annex",
+   "source": "https://www.landesrecht-hamburg.de/perma?d=jlr-NNLHH000069FF&docPart=X"
+  },
+  {
+   "document_id": "jlr-NNLHH000069FC",
+   "document_type": "Verordnung",
+   "reason": "Source image or separately supplied normative annex",
+   "source": "https://www.landesrecht-hamburg.de/perma?d=jlr-NNLHH000069FC&docPart=X"
+  },
+  {
+   "document_id": "jlr-NNLHH000069F7",
+   "document_type": "Verordnung",
+   "reason": "Source image or separately supplied normative annex",
+   "source": "https://www.landesrecht-hamburg.de/perma?d=jlr-NNLHH000069F7&docPart=X"
+  },
+  {
+   "document_id": "jlr-NNLHH000069F6",
+   "document_type": "Verordnung",
+   "reason": "Source image or separately supplied normative annex",
+   "source": "https://www.landesrecht-hamburg.de/perma?d=jlr-NNLHH000069F6&docPart=X"
+  },
+  {
+   "document_id": "jlr-NNLHH000069F5",
+   "document_type": "Verordnung",
+   "reason": "Source image or separately supplied normative annex",
+   "source": "https://www.landesrecht-hamburg.de/perma?d=jlr-NNLHH000069F5&docPart=X"
+  },
+  {
+   "document_id": "jlr-NNLHH000069F4",
+   "document_type": "Verordnung",
+   "reason": "Source image or separately supplied normative annex",
+   "source": "https://www.landesrecht-hamburg.de/perma?d=jlr-NNLHH000069F4&docPart=X"
+  },
+  {
+   "document_id": "jlr-NNLHH000069F3",
+   "document_type": "Verordnung",
+   "reason": "Source image or separately supplied normative annex",
+   "source": "https://www.landesrecht-hamburg.de/perma?d=jlr-NNLHH000069F3&docPart=X"
+  },
+  {
+   "document_id": "jlr-NNLHH000069F2",
+   "document_type": "Verordnung",
+   "reason": "Source image or separately supplied normative annex",
+   "source": "https://www.landesrecht-hamburg.de/perma?d=jlr-NNLHH000069F2&docPart=X"
+  },
+  {
+   "document_id": "jlr-NNLHH000069F1",
+   "document_type": "Verordnung",
+   "reason": "Source image or separately supplied normative annex",
+   "source": "https://www.landesrecht-hamburg.de/perma?d=jlr-NNLHH000069F1&docPart=X"
+  },
+  {
+   "document_id": "jlr-NNLHH000069F0",
+   "document_type": "Verordnung",
+   "reason": "Source image or separately supplied normative annex",
+   "source": "https://www.landesrecht-hamburg.de/perma?d=jlr-NNLHH000069F0&docPart=X"
+  },
+  {
+   "document_id": "jlr-NNLHH000069EE",
+   "document_type": "Verordnung",
+   "reason": "Source image or separately supplied normative annex",
+   "source": "https://www.landesrecht-hamburg.de/perma?d=jlr-NNLHH000069EE&docPart=X"
+  },
+  {
+   "document_id": "jlr-NNLHH000069ED",
+   "document_type": "Verordnung",
+   "reason": "Source image or separately supplied normative annex",
+   "source": "https://www.landesrecht-hamburg.de/perma?d=jlr-NNLHH000069ED&docPart=X"
+  },
+  {
+   "document_id": "jlr-NNLHH000069EB",
+   "document_type": "Verordnung",
+   "reason": "Source image or separately supplied normative annex",
+   "source": "https://www.landesrecht-hamburg.de/perma?d=jlr-NNLHH000069EB&docPart=X"
+  },
+  {
+   "document_id": "jlr-NNLHH000069EA",
+   "document_type": "Verordnung",
+   "reason": "Source image or separately supplied normative annex",
+   "source": "https://www.landesrecht-hamburg.de/perma?d=jlr-NNLHH000069EA&docPart=X"
+  },
+  {
+   "document_id": "jlr-NNLHH000069E9",
+   "document_type": "Verordnung",
+   "reason": "Source image or separately supplied normative annex",
+   "source": "https://www.landesrecht-hamburg.de/perma?d=jlr-NNLHH000069E9&docPart=X"
+  },
+  {
+   "document_id": "jlr-NNLHH000069E8",
+   "document_type": "Verordnung",
+   "reason": "Source image or separately supplied normative annex",
+   "source": "https://www.landesrecht-hamburg.de/perma?d=jlr-NNLHH000069E8&docPart=X"
+  },
+  {
+   "document_id": "jlr-NNLHH000069E6",
+   "document_type": "Verordnung",
+   "reason": "Source image or separately supplied normative annex",
+   "source": "https://www.landesrecht-hamburg.de/perma?d=jlr-NNLHH000069E6&docPart=X"
+  },
+  {
+   "document_id": "jlr-NNLHH000069E5",
+   "document_type": "Verordnung",
+   "reason": "Source image or separately supplied normative annex",
+   "source": "https://www.landesrecht-hamburg.de/perma?d=jlr-NNLHH000069E5&docPart=X"
+  },
+  {
+   "document_id": "jlr-NNLHH000069E4",
+   "document_type": "Verordnung",
+   "reason": "Source image or separately supplied normative annex",
+   "source": "https://www.landesrecht-hamburg.de/perma?d=jlr-NNLHH000069E4&docPart=X"
+  },
+  {
+   "document_id": "jlr-NNLHH000069E3",
+   "document_type": "Verordnung",
+   "reason": "Source image or separately supplied normative annex",
+   "source": "https://www.landesrecht-hamburg.de/perma?d=jlr-NNLHH000069E3&docPart=X"
+  },
+  {
+   "document_id": "jlr-NNLHH000069E2",
+   "document_type": "Verordnung",
+   "reason": "Source image or separately supplied normative annex",
+   "source": "https://www.landesrecht-hamburg.de/perma?d=jlr-NNLHH000069E2&docPart=X"
+  },
+  {
+   "document_id": "jlr-NNLHH000069E1",
+   "document_type": "Verordnung",
+   "reason": "Source image or separately supplied normative annex",
+   "source": "https://www.landesrecht-hamburg.de/perma?d=jlr-NNLHH000069E1&docPart=X"
+  },
+  {
+   "document_id": "jlr-NNLHH000069E0",
+   "document_type": "Verordnung",
+   "reason": "Source image or separately supplied normative annex",
+   "source": "https://www.landesrecht-hamburg.de/perma?d=jlr-NNLHH000069E0&docPart=X"
+  },
+  {
+   "document_id": "jlr-NNLHH000069DE",
+   "document_type": "Verordnung",
+   "reason": "Source image or separately supplied normative annex",
+   "source": "https://www.landesrecht-hamburg.de/perma?d=jlr-NNLHH000069DE&docPart=X"
+  },
+  {
+   "document_id": "jlr-NNLHH000069DD",
+   "document_type": "Verordnung",
+   "reason": "Source image or separately supplied normative annex",
+   "source": "https://www.landesrecht-hamburg.de/perma?d=jlr-NNLHH000069DD&docPart=X"
+  },
+  {
+   "document_id": "jlr-NNLHH000069DC",
+   "document_type": "Verordnung",
+   "reason": "Source image or separately supplied normative annex",
+   "source": "https://www.landesrecht-hamburg.de/perma?d=jlr-NNLHH000069DC&docPart=X"
+  },
+  {
+   "document_id": "jlr-NNLHH000069DA",
+   "document_type": "Verordnung",
+   "reason": "Source image or separately supplied normative annex",
+   "source": "https://www.landesrecht-hamburg.de/perma?d=jlr-NNLHH000069DA&docPart=X"
+  },
+  {
+   "document_id": "jlr-NNLHH000069D9",
+   "document_type": "Verordnung",
+   "reason": "Source image or separately supplied normative annex",
+   "source": "https://www.landesrecht-hamburg.de/perma?d=jlr-NNLHH000069D9&docPart=X"
+  },
+  {
+   "document_id": "jlr-NNLHH000069D3",
+   "document_type": "Verordnung",
+   "reason": "Source image or separately supplied normative annex",
+   "source": "https://www.landesrecht-hamburg.de/perma?d=jlr-NNLHH000069D3&docPart=X"
+  },
+  {
+   "document_id": "jlr-NNLHH000069C1",
+   "document_type": "Verordnung",
+   "reason": "Source image or separately supplied normative annex",
+   "source": "https://www.landesrecht-hamburg.de/perma?d=jlr-NNLHH000069C1&docPart=X"
+  },
+  {
+   "document_id": "jlr-NNLHH000069BF",
+   "document_type": "Verordnung",
+   "reason": "Source image or separately supplied normative annex",
+   "source": "https://www.landesrecht-hamburg.de/perma?d=jlr-NNLHH000069BF&docPart=X"
+  },
+  {
+   "document_id": "jlr-NNLHH000069BE",
+   "document_type": "Verordnung",
+   "reason": "Source image or separately supplied normative annex",
+   "source": "https://www.landesrecht-hamburg.de/perma?d=jlr-NNLHH000069BE&docPart=X"
+  },
+  {
+   "document_id": "jlr-NNLHH000069BD",
+   "document_type": "Verordnung",
+   "reason": "Source image or separately supplied normative annex",
+   "source": "https://www.landesrecht-hamburg.de/perma?d=jlr-NNLHH000069BD&docPart=X"
+  },
+  {
+   "document_id": "jlr-NNLHH000069BC",
+   "document_type": "Verordnung",
+   "reason": "Source image or separately supplied normative annex",
+   "source": "https://www.landesrecht-hamburg.de/perma?d=jlr-NNLHH000069BC&docPart=X"
+  },
+  {
+   "document_id": "jlr-NNLHH000069BB",
+   "document_type": "Verordnung",
+   "reason": "Source image or separately supplied normative annex",
+   "source": "https://www.landesrecht-hamburg.de/perma?d=jlr-NNLHH000069BB&docPart=X"
+  },
+  {
+   "document_id": "jlr-NNLHH000069AA",
+   "document_type": "Verordnung",
+   "reason": "Source image or separately supplied normative annex",
+   "source": "https://www.landesrecht-hamburg.de/perma?d=jlr-NNLHH000069AA&docPart=X"
+  },
+  {
+   "document_id": "jlr-NNLHH00006961",
+   "document_type": "Verordnung",
+   "reason": "Source image or separately supplied normative annex",
+   "source": "https://www.landesrecht-hamburg.de/perma?d=jlr-NNLHH00006961&docPart=X"
+  },
+  {
+   "document_id": "jlr-NNLHH0000695F",
+   "document_type": "Verordnung",
+   "reason": "Source image or separately supplied normative annex",
+   "source": "https://www.landesrecht-hamburg.de/perma?d=jlr-NNLHH0000695F&docPart=X"
+  },
+  {
+   "document_id": "jlr-NNLHH000068F1",
+   "document_type": "Verordnung",
+   "reason": "Source image or separately supplied normative annex",
+   "source": "https://www.landesrecht-hamburg.de/perma?d=jlr-NNLHH000068F1&docPart=X"
+  },
+  {
+   "document_id": "jlr-NNLHH000068B5",
+   "document_type": "Verordnung",
+   "reason": "Source image or separately supplied normative annex",
+   "source": "https://www.landesrecht-hamburg.de/perma?d=jlr-NNLHH000068B5&docPart=X"
+  },
+  {
+   "document_id": "jlr-NNLHH000067DA",
+   "document_type": "Verordnung",
+   "reason": "Source image or separately supplied normative annex",
+   "source": "https://www.landesrecht-hamburg.de/perma?d=jlr-NNLHH000067DA&docPart=X"
+  },
+  {
+   "document_id": "jlr-NNLHH000067CF",
+   "document_type": "Verordnung",
+   "reason": "Source image or separately supplied normative annex",
+   "source": "https://www.landesrecht-hamburg.de/perma?d=jlr-NNLHH000067CF&docPart=X"
+  },
+  {
+   "document_id": "jlr-NNLHH00006799",
+   "document_type": "Verordnung",
+   "reason": "Source image or separately supplied normative annex",
+   "source": "https://www.landesrecht-hamburg.de/perma?d=jlr-NNLHH00006799&docPart=X"
+  },
+  {
+   "document_id": "jlr-NNLHH0000673E",
+   "document_type": "Gesetz",
+   "reason": "Source image or separately supplied normative annex",
+   "source": "https://www.landesrecht-hamburg.de/perma?d=jlr-NNLHH0000673E&docPart=X"
+  },
+  {
+   "document_id": "jlr-NNLHH00006728",
+   "document_type": "Verordnung",
+   "reason": "Source image or separately supplied normative annex",
+   "source": "https://www.landesrecht-hamburg.de/perma?d=jlr-NNLHH00006728&docPart=X"
+  },
+  {
+   "document_id": "jlr-NNLHH000066E2",
+   "document_type": "Gesetz",
+   "reason": "Source image or separately supplied normative annex",
+   "source": "https://www.landesrecht-hamburg.de/perma?d=jlr-NNLHH000066E2&docPart=X"
+  },
+  {
+   "document_id": "jlr-NNLHH000066E0",
+   "document_type": "Verordnung",
+   "reason": "Source image or separately supplied normative annex",
+   "source": "https://www.landesrecht-hamburg.de/perma?d=jlr-NNLHH000066E0&docPart=X"
+  },
+  {
+   "document_id": "jlr-NNLHH000066B4",
+   "document_type": "Verordnung",
+   "reason": "Source image or separately supplied normative annex",
+   "source": "https://www.landesrecht-hamburg.de/perma?d=jlr-NNLHH000066B4&docPart=X"
+  },
+  {
+   "document_id": "jlr-NNLHH00006686",
+   "document_type": "Verordnung",
+   "reason": "Source image or separately supplied normative annex",
+   "source": "https://www.landesrecht-hamburg.de/perma?d=jlr-NNLHH00006686&docPart=X"
+  },
+  {
+   "document_id": "jlr-NNLHH0000666E",
+   "document_type": "Verordnung",
+   "reason": "Source image or separately supplied normative annex",
+   "source": "https://www.landesrecht-hamburg.de/perma?d=jlr-NNLHH0000666E&docPart=X"
+  },
+  {
+   "document_id": "jlr-NNLHH00006631",
+   "document_type": "Verordnung",
+   "reason": "Source image or separately supplied normative annex",
+   "source": "https://www.landesrecht-hamburg.de/perma?d=jlr-NNLHH00006631&docPart=X"
+  },
+  {
+   "document_id": "jlr-NNLHH00006630",
+   "document_type": "Verordnung",
+   "reason": "Source image or separately supplied normative annex",
+   "source": "https://www.landesrecht-hamburg.de/perma?d=jlr-NNLHH00006630&docPart=X"
+  },
+  {
+   "document_id": "jlr-NNLHH0000662F",
+   "document_type": "Verordnung",
+   "reason": "Source image or separately supplied normative annex",
+   "source": "https://www.landesrecht-hamburg.de/perma?d=jlr-NNLHH0000662F&docPart=X"
+  },
+  {
+   "document_id": "jlr-NNLHH0000662D",
+   "document_type": "Verordnung",
+   "reason": "Source image or separately supplied normative annex",
+   "source": "https://www.landesrecht-hamburg.de/perma?d=jlr-NNLHH0000662D&docPart=X"
+  },
+  {
+   "document_id": "jlr-NNLHH0000662C",
+   "document_type": "Verordnung",
+   "reason": "Source image or separately supplied normative annex",
+   "source": "https://www.landesrecht-hamburg.de/perma?d=jlr-NNLHH0000662C&docPart=X"
+  },
+  {
+   "document_id": "jlr-NNLHH0000662B",
+   "document_type": "Verordnung",
+   "reason": "Source image or separately supplied normative annex",
+   "source": "https://www.landesrecht-hamburg.de/perma?d=jlr-NNLHH0000662B&docPart=X"
+  },
+  {
+   "document_id": "jlr-NNLHH0000662A",
+   "document_type": "Verordnung",
+   "reason": "Source image or separately supplied normative annex",
+   "source": "https://www.landesrecht-hamburg.de/perma?d=jlr-NNLHH0000662A&docPart=X"
+  },
+  {
+   "document_id": "jlr-NNLHH00006629",
+   "document_type": "Verordnung",
+   "reason": "Source image or separately supplied normative annex",
+   "source": "https://www.landesrecht-hamburg.de/perma?d=jlr-NNLHH00006629&docPart=X"
+  },
+  {
+   "document_id": "jlr-NNLHH00006628",
+   "document_type": "Verordnung",
+   "reason": "Source image or separately supplied normative annex",
+   "source": "https://www.landesrecht-hamburg.de/perma?d=jlr-NNLHH00006628&docPart=X"
+  },
+  {
+   "document_id": "jlr-NNLHH00006627",
+   "document_type": "Verordnung",
+   "reason": "Source image or separately supplied normative annex",
+   "source": "https://www.landesrecht-hamburg.de/perma?d=jlr-NNLHH00006627&docPart=X"
+  },
+  {
+   "document_id": "jlr-NNLHH00006626",
+   "document_type": "Verordnung",
+   "reason": "Source image or separately supplied normative annex",
+   "source": "https://www.landesrecht-hamburg.de/perma?d=jlr-NNLHH00006626&docPart=X"
+  },
+  {
+   "document_id": "jlr-NNLHH00006625",
+   "document_type": "Verordnung",
+   "reason": "Source image or separately supplied normative annex",
+   "source": "https://www.landesrecht-hamburg.de/perma?d=jlr-NNLHH00006625&docPart=X"
+  },
+  {
+   "document_id": "jlr-NNLHH00006624",
+   "document_type": "Verordnung",
+   "reason": "Source image or separately supplied normative annex",
+   "source": "https://www.landesrecht-hamburg.de/perma?d=jlr-NNLHH00006624&docPart=X"
+  },
+  {
+   "document_id": "jlr-NNLHH00006623",
+   "document_type": "Verordnung",
+   "reason": "Source image or separately supplied normative annex",
+   "source": "https://www.landesrecht-hamburg.de/perma?d=jlr-NNLHH00006623&docPart=X"
+  },
+  {
+   "document_id": "jlr-NNLHH00006622",
+   "document_type": "Verordnung",
+   "reason": "Source image or separately supplied normative annex",
+   "source": "https://www.landesrecht-hamburg.de/perma?d=jlr-NNLHH00006622&docPart=X"
+  },
+  {
+   "document_id": "jlr-NNLHH00006621",
+   "document_type": "Verordnung",
+   "reason": "Source image or separately supplied normative annex",
+   "source": "https://www.landesrecht-hamburg.de/perma?d=jlr-NNLHH00006621&docPart=X"
+  },
+  {
+   "document_id": "jlr-NNLHH00006620",
+   "document_type": "Verordnung",
+   "reason": "Source image or separately supplied normative annex",
+   "source": "https://www.landesrecht-hamburg.de/perma?d=jlr-NNLHH00006620&docPart=X"
+  },
+  {
+   "document_id": "jlr-NNLHH0000661F",
+   "document_type": "Verordnung",
+   "reason": "Source image or separately supplied normative annex",
+   "source": "https://www.landesrecht-hamburg.de/perma?d=jlr-NNLHH0000661F&docPart=X"
+  },
+  {
+   "document_id": "jlr-NNLHH0000661E",
+   "document_type": "Verordnung",
+   "reason": "Source image or separately supplied normative annex",
+   "source": "https://www.landesrecht-hamburg.de/perma?d=jlr-NNLHH0000661E&docPart=X"
+  },
+  {
+   "document_id": "jlr-NNLHH0000661D",
+   "document_type": "Verordnung",
+   "reason": "Source image or separately supplied normative annex",
+   "source": "https://www.landesrecht-hamburg.de/perma?d=jlr-NNLHH0000661D&docPart=X"
+  },
+  {
+   "document_id": "jlr-NNLHH0000661A",
+   "document_type": "Verordnung",
+   "reason": "Source image or separately supplied normative annex",
+   "source": "https://www.landesrecht-hamburg.de/perma?d=jlr-NNLHH0000661A&docPart=X"
+  },
+  {
+   "document_id": "jlr-NNLHH00006616",
+   "document_type": "Verordnung",
+   "reason": "Source image or separately supplied normative annex",
+   "source": "https://www.landesrecht-hamburg.de/perma?d=jlr-NNLHH00006616&docPart=X"
+  },
+  {
+   "document_id": "jlr-NNLHH00006612",
+   "document_type": "Verordnung",
+   "reason": "Source image or separately supplied normative annex",
+   "source": "https://www.landesrecht-hamburg.de/perma?d=jlr-NNLHH00006612&docPart=X"
+  },
+  {
+   "document_id": "jlr-NNLHH00006611",
+   "document_type": "Verordnung",
+   "reason": "Source image or separately supplied normative annex",
+   "source": "https://www.landesrecht-hamburg.de/perma?d=jlr-NNLHH00006611&docPart=X"
+  },
+  {
+   "document_id": "jlr-NNLHH00006610",
+   "document_type": "Verordnung",
+   "reason": "Source image or separately supplied normative annex",
+   "source": "https://www.landesrecht-hamburg.de/perma?d=jlr-NNLHH00006610&docPart=X"
+  },
+  {
+   "document_id": "jlr-NNLHH00006603",
+   "document_type": "Verordnung",
+   "reason": "Source image or separately supplied normative annex",
+   "source": "https://www.landesrecht-hamburg.de/perma?d=jlr-NNLHH00006603&docPart=X"
+  },
+  {
+   "document_id": "jlr-NNLHH0000656D",
+   "document_type": "Verordnung",
+   "reason": "Source image or separately supplied normative annex",
+   "source": "https://www.landesrecht-hamburg.de/perma?d=jlr-NNLHH0000656D&docPart=X"
+  },
+  {
+   "document_id": "jlr-NNLHH00006519",
+   "document_type": "Verordnung",
+   "reason": "Source image or separately supplied normative annex",
+   "source": "https://www.landesrecht-hamburg.de/perma?d=jlr-NNLHH00006519&docPart=X"
+  },
+  {
+   "document_id": "jlr-NNLHH000064E5",
+   "document_type": "Verordnung",
+   "reason": "Source image or separately supplied normative annex",
+   "source": "https://www.landesrecht-hamburg.de/perma?d=jlr-NNLHH000064E5&docPart=X"
+  },
+  {
+   "document_id": "jlr-NNLHH000064E4",
+   "document_type": "Verordnung",
+   "reason": "Source image or separately supplied normative annex",
+   "source": "https://www.landesrecht-hamburg.de/perma?d=jlr-NNLHH000064E4&docPart=X"
+  },
+  {
+   "document_id": "jlr-NNLHH000064E3",
+   "document_type": "Verordnung",
+   "reason": "Source image or separately supplied normative annex",
+   "source": "https://www.landesrecht-hamburg.de/perma?d=jlr-NNLHH000064E3&docPart=X"
+  },
+  {
+   "document_id": "jlr-NNLHH000064E2",
+   "document_type": "Verordnung",
+   "reason": "Source image or separately supplied normative annex",
+   "source": "https://www.landesrecht-hamburg.de/perma?d=jlr-NNLHH000064E2&docPart=X"
+  },
+  {
+   "document_id": "jlr-NNLHH000064E1",
+   "document_type": "Verordnung",
+   "reason": "Source image or separately supplied normative annex",
+   "source": "https://www.landesrecht-hamburg.de/perma?d=jlr-NNLHH000064E1&docPart=X"
+  },
+  {
+   "document_id": "jlr-NNLHH000064E0",
+   "document_type": "Verordnung",
+   "reason": "Source image or separately supplied normative annex",
+   "source": "https://www.landesrecht-hamburg.de/perma?d=jlr-NNLHH000064E0&docPart=X"
+  },
+  {
+   "document_id": "jlr-NNLHH000064D9",
+   "document_type": "Verordnung",
+   "reason": "Source image or separately supplied normative annex",
+   "source": "https://www.landesrecht-hamburg.de/perma?d=jlr-NNLHH000064D9&docPart=X"
+  },
+  {
+   "document_id": "jlr-NNLHH000064D2",
+   "document_type": "Verordnung",
+   "reason": "Source image or separately supplied normative annex",
+   "source": "https://www.landesrecht-hamburg.de/perma?d=jlr-NNLHH000064D2&docPart=X"
+  },
+  {
+   "document_id": "jlr-NNLHH000064CA",
+   "document_type": "Verordnung",
+   "reason": "Source image or separately supplied normative annex",
+   "source": "https://www.landesrecht-hamburg.de/perma?d=jlr-NNLHH000064CA&docPart=X"
+  },
+  {
+   "document_id": "jlr-NNLHH000064C9",
+   "document_type": "Verordnung",
+   "reason": "Source image or separately supplied normative annex",
+   "source": "https://www.landesrecht-hamburg.de/perma?d=jlr-NNLHH000064C9&docPart=X"
+  },
+  {
+   "document_id": "jlr-NNLHH000064C8",
+   "document_type": "Verordnung",
+   "reason": "Source image or separately supplied normative annex",
+   "source": "https://www.landesrecht-hamburg.de/perma?d=jlr-NNLHH000064C8&docPart=X"
+  },
+  {
+   "document_id": "jlr-NNLHH000064C7",
+   "document_type": "Verordnung",
+   "reason": "Source image or separately supplied normative annex",
+   "source": "https://www.landesrecht-hamburg.de/perma?d=jlr-NNLHH000064C7&docPart=X"
+  },
+  {
+   "document_id": "jlr-NNLHH000064A2",
+   "document_type": "Verordnung",
+   "reason": "Source image or separately supplied normative annex",
+   "source": "https://www.landesrecht-hamburg.de/perma?d=jlr-NNLHH000064A2&docPart=X"
+  },
+  {
+   "document_id": "jlr-NNLHH000064A1",
+   "document_type": "Verordnung",
+   "reason": "Source image or separately supplied normative annex",
+   "source": "https://www.landesrecht-hamburg.de/perma?d=jlr-NNLHH000064A1&docPart=X"
+  },
+  {
+   "document_id": "jlr-NNLHH0000649E",
+   "document_type": "Verordnung",
+   "reason": "Source image or separately supplied normative annex",
+   "source": "https://www.landesrecht-hamburg.de/perma?d=jlr-NNLHH0000649E&docPart=X"
+  },
+  {
+   "document_id": "jlr-NNLHH0000649D",
+   "document_type": "Verordnung",
+   "reason": "Source image or separately supplied normative annex",
+   "source": "https://www.landesrecht-hamburg.de/perma?d=jlr-NNLHH0000649D&docPart=X"
+  },
+  {
+   "document_id": "jlr-NNLHH0000649C",
+   "document_type": "Verordnung",
+   "reason": "Source image or separately supplied normative annex",
+   "source": "https://www.landesrecht-hamburg.de/perma?d=jlr-NNLHH0000649C&docPart=X"
+  },
+  {
+   "document_id": "jlr-NNLHH00006494",
+   "document_type": "Verordnung",
+   "reason": "Source image or separately supplied normative annex",
+   "source": "https://www.landesrecht-hamburg.de/perma?d=jlr-NNLHH00006494&docPart=X"
+  },
+  {
+   "document_id": "jlr-NNLHH00006490",
+   "document_type": "Verordnung",
+   "reason": "Source image or separately supplied normative annex",
+   "source": "https://www.landesrecht-hamburg.de/perma?d=jlr-NNLHH00006490&docPart=X"
+  },
+  {
+   "document_id": "jlr-NNLHH0000648F",
+   "document_type": "Verordnung",
+   "reason": "Source image or separately supplied normative annex",
+   "source": "https://www.landesrecht-hamburg.de/perma?d=jlr-NNLHH0000648F&docPart=X"
+  },
+  {
+   "document_id": "jlr-NNLHH0000648E",
+   "document_type": "Verordnung",
+   "reason": "Source image or separately supplied normative annex",
+   "source": "https://www.landesrecht-hamburg.de/perma?d=jlr-NNLHH0000648E&docPart=X"
+  },
+  {
+   "document_id": "jlr-NNLHH00006472",
+   "document_type": "Verordnung",
+   "reason": "Source image or separately supplied normative annex",
+   "source": "https://www.landesrecht-hamburg.de/perma?d=jlr-NNLHH00006472&docPart=X"
+  },
+  {
+   "document_id": "jlr-NNLHH0000646D",
+   "document_type": "Verordnung",
+   "reason": "Source image or separately supplied normative annex",
+   "source": "https://www.landesrecht-hamburg.de/perma?d=jlr-NNLHH0000646D&docPart=X"
+  },
+  {
+   "document_id": "jlr-NNLHH00006468",
+   "document_type": "Verordnung",
+   "reason": "Source image or separately supplied normative annex",
+   "source": "https://www.landesrecht-hamburg.de/perma?d=jlr-NNLHH00006468&docPart=X"
+  },
+  {
+   "document_id": "jlr-NNLHH00006467",
+   "document_type": "Verordnung",
+   "reason": "Source image or separately supplied normative annex",
+   "source": "https://www.landesrecht-hamburg.de/perma?d=jlr-NNLHH00006467&docPart=X"
+  },
+  {
+   "document_id": "jlr-NNLHH0000645C",
+   "document_type": "Verordnung",
+   "reason": "Source image or separately supplied normative annex",
+   "source": "https://www.landesrecht-hamburg.de/perma?d=jlr-NNLHH0000645C&docPart=X"
+  },
+  {
+   "document_id": "jlr-NNLHH00006438",
+   "document_type": "Verordnung",
+   "reason": "Source image or separately supplied normative annex",
+   "source": "https://www.landesrecht-hamburg.de/perma?d=jlr-NNLHH00006438&docPart=X"
+  },
+  {
+   "document_id": "jlr-NNLHH0000642E",
+   "document_type": "Verordnung",
+   "reason": "Source image or separately supplied normative annex",
+   "source": "https://www.landesrecht-hamburg.de/perma?d=jlr-NNLHH0000642E&docPart=X"
+  },
+  {
+   "document_id": "jlr-NNLHH0000642D",
+   "document_type": "Verordnung",
+   "reason": "Source image or separately supplied normative annex",
+   "source": "https://www.landesrecht-hamburg.de/perma?d=jlr-NNLHH0000642D&docPart=X"
+  },
+  {
+   "document_id": "jlr-NNLHH0000640F",
+   "document_type": "Verordnung",
+   "reason": "Source image or separately supplied normative annex",
+   "source": "https://www.landesrecht-hamburg.de/perma?d=jlr-NNLHH0000640F&docPart=X"
+  },
+  {
+   "document_id": "jlr-NNLHH0000640E",
+   "document_type": "Verordnung",
+   "reason": "Source image or separately supplied normative annex",
+   "source": "https://www.landesrecht-hamburg.de/perma?d=jlr-NNLHH0000640E&docPart=X"
+  },
+  {
+   "document_id": "jlr-NNLHH000063F6",
+   "document_type": "Verordnung",
+   "reason": "Source image or separately supplied normative annex",
+   "source": "https://www.landesrecht-hamburg.de/perma?d=jlr-NNLHH000063F6&docPart=X"
+  },
+  {
+   "document_id": "jlr-NNLHH000063F2",
+   "document_type": "Verordnung",
+   "reason": "Source image or separately supplied normative annex",
+   "source": "https://www.landesrecht-hamburg.de/perma?d=jlr-NNLHH000063F2&docPart=X"
+  },
+  {
+   "document_id": "jlr-NNLHH000063DB",
+   "document_type": "Verordnung",
+   "reason": "Source image or separately supplied normative annex",
+   "source": "https://www.landesrecht-hamburg.de/perma?d=jlr-NNLHH000063DB&docPart=X"
+  },
+  {
+   "document_id": "jlr-NNLHH000063CB",
+   "document_type": "Verordnung",
+   "reason": "Source image or separately supplied normative annex",
+   "source": "https://www.landesrecht-hamburg.de/perma?d=jlr-NNLHH000063CB&docPart=X"
+  },
+  {
+   "document_id": "jlr-NNLHH000063CA",
+   "document_type": "Verordnung",
+   "reason": "Source image or separately supplied normative annex",
+   "source": "https://www.landesrecht-hamburg.de/perma?d=jlr-NNLHH000063CA&docPart=X"
+  },
+  {
+   "document_id": "jlr-NNLHH000063BF",
+   "document_type": "Gesetz",
+   "reason": "Source image or separately supplied normative annex",
+   "source": "https://www.landesrecht-hamburg.de/perma?d=jlr-NNLHH000063BF&docPart=X"
+  },
+  {
+   "document_id": "jlr-NNLHH000063A9",
+   "document_type": "Verordnung",
+   "reason": "Source image or separately supplied normative annex",
+   "source": "https://www.landesrecht-hamburg.de/perma?d=jlr-NNLHH000063A9&docPart=X"
+  },
+  {
+   "document_id": "jlr-NNLHH000063A6",
+   "document_type": "Verordnung",
+   "reason": "Source image or separately supplied normative annex",
+   "source": "https://www.landesrecht-hamburg.de/perma?d=jlr-NNLHH000063A6&docPart=X"
+  },
+  {
+   "document_id": "jlr-NNLHH000063A5",
+   "document_type": "Verordnung",
+   "reason": "Source image or separately supplied normative annex",
+   "source": "https://www.landesrecht-hamburg.de/perma?d=jlr-NNLHH000063A5&docPart=X"
+  },
+  {
+   "document_id": "jlr-NNLHH00006398",
+   "document_type": "Verordnung",
+   "reason": "Source image or separately supplied normative annex",
+   "source": "https://www.landesrecht-hamburg.de/perma?d=jlr-NNLHH00006398&docPart=X"
+  },
+  {
+   "document_id": "jlr-NNLHH00006396",
+   "document_type": "Verordnung",
+   "reason": "Source image or separately supplied normative annex",
+   "source": "https://www.landesrecht-hamburg.de/perma?d=jlr-NNLHH00006396&docPart=X"
+  },
+  {
+   "document_id": "jlr-NNLHH00006384",
+   "document_type": "Verordnung",
+   "reason": "Source image or separately supplied normative annex",
+   "source": "https://www.landesrecht-hamburg.de/perma?d=jlr-NNLHH00006384&docPart=X"
+  },
+  {
+   "document_id": "jlr-NNLHH00006377",
+   "document_type": "Verordnung",
+   "reason": "Source image or separately supplied normative annex",
+   "source": "https://www.landesrecht-hamburg.de/perma?d=jlr-NNLHH00006377&docPart=X"
+  },
+  {
+   "document_id": "jlr-NNLHH00006372",
+   "document_type": "Verordnung",
+   "reason": "Source image or separately supplied normative annex",
+   "source": "https://www.landesrecht-hamburg.de/perma?d=jlr-NNLHH00006372&docPart=X"
+  },
+  {
+   "document_id": "jlr-NNLHH0000636E",
+   "document_type": "Verordnung",
+   "reason": "Source image or separately supplied normative annex",
+   "source": "https://www.landesrecht-hamburg.de/perma?d=jlr-NNLHH0000636E&docPart=X"
+  },
+  {
+   "document_id": "jlr-NNLHH0000636D",
+   "document_type": "Verordnung",
+   "reason": "Source image or separately supplied normative annex",
+   "source": "https://www.landesrecht-hamburg.de/perma?d=jlr-NNLHH0000636D&docPart=X"
+  },
+  {
+   "document_id": "jlr-NNLHH0000636B",
+   "document_type": "Verordnung",
+   "reason": "Source image or separately supplied normative annex",
+   "source": "https://www.landesrecht-hamburg.de/perma?d=jlr-NNLHH0000636B&docPart=X"
+  }
+ ]
+}
